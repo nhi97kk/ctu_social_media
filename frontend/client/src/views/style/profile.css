@@ -1,0 +1,6 @@
+.info-profile{
+  color: var(--text);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
